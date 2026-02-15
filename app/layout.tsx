@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'ASCII Effect App',
-  description: 'Three.js ASCII effect in Next.js',
+  title: 'Kfues socials',
+  description: 'All my socials here',
 }
 
 export default function RootLayout({
